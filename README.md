@@ -11,7 +11,7 @@
 
 
 ## 📁 Estructura del proyecto
-Arquitectura por capas para desacoplar el código, aplicando buenas practicas, y generando la base para una arquitectura que se pueda escalar sin problemas, se usaron los patrones DTO y Repository.
+Se implementó una arquitectura por capas para lograr un mayor desacoplamiento del código, aplicando buenas prácticas de desarrollo y sentando las bases de una solución escalable. Se utilizaron los patrones DTO y Repository, y se adoptó el enfoque Code-First para la gestión de la base de datos.
 
 ````markdown
 CarBrandsSolution.sln
