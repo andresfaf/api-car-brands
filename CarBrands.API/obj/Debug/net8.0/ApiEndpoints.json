@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CarBrands.API.Controllers.CarBrandsController",
+    "Method": "GetAll",
+    "RelativePath": "CarBrands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

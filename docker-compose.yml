@@ -1,0 +1,30 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: carbrands_db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: MyPassword
+      POSTGRES_DB: MyBD
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  api:
+    build:  
+      context: .
+      dockerfile: CarBrands.API/Dockerfile
+    container_name: carbrands_api
+    depends_on:
+      - postgres
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=MyBD;Username=postgres;Password=MyPassword
+    ports:
+      - "5000:8080"
+      - "5001:8081"
+
+volumes:
+  postgres_data:

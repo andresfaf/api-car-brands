@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\CarBrands.Application.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\CarBrands.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\CarBrands.Application.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\CarBrands.Application.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\CarBrands.Application.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\bin\Debug\net8.0\CarBrands.Application.deps.json
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\bin\Debug\net8.0\CarBrands.Application.dll
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\bin\Debug\net8.0\CarBrands.Application.pdb
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\bin\Debug\net8.0\CarBrands.Domain.dll
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\bin\Debug\net8.0\CarBrands.Domain.pdb
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\CarBrand.C71218E1.Up2Date
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\CarBrands.Application.dll
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\refint\CarBrands.Application.dll
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\CarBrands.Application.pdb
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Application\obj\Debug\net8.0\ref\CarBrands.Application.dll

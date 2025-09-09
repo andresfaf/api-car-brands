@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\bin\Debug\net8.0\CarBrands.Domain.deps.json
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\bin\Debug\net8.0\CarBrands.Domain.dll
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\bin\Debug\net8.0\CarBrands.Domain.pdb
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\obj\Debug\net8.0\CarBrands.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\obj\Debug\net8.0\CarBrands.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\obj\Debug\net8.0\CarBrands.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\obj\Debug\net8.0\CarBrands.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\obj\Debug\net8.0\CarBrands.Domain.dll
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\obj\Debug\net8.0\refint\CarBrands.Domain.dll
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\obj\Debug\net8.0\CarBrands.Domain.pdb
+C:\Users\USUARIO\Desktop\Codigos\api-card-brands\api-car-brands\CarBrands.Domain\obj\Debug\net8.0\ref\CarBrands.Domain.dll

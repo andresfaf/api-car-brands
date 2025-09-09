@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CarBrands.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/CarBrands": {
+      "get": {
+        "tags": [
+          "CarBrands"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

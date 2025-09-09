@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CarBrands.Application/1.0.0": {
+        "dependencies": {
+          "CarBrands.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CarBrands.Application.dll": {}
+        }
+      },
+      "CarBrands.Domain/1.0.0": {
+        "runtime": {
+          "CarBrands.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarBrands.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarBrands.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
